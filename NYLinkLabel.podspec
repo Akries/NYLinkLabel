@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
 s.name         = "NYLinkLabel"
-s.version      = "1.1.0"
+s.version      = "1.1.1"
 s.summary      = "A link label for label"
 
 s.description  = <<-DESC
@@ -22,7 +22,7 @@ s.license      = "MIT"
 
 
 s.author             = { "Akries.Ni" => "zxcnoo@163.com" }
-s.source       = { :git => "https://github.com/Akries/NYLinkLabel.git", :tag => "{1.1.0}" }
+s.source       = { :git => "https://github.com/Akries/NYLinkLabel.git", :tag => "{1.1.1}" }
 
 
 s.source_files  = "NYLinkLabel/*"
