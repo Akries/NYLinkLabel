@@ -22,9 +22,9 @@ s.license      = "MIT"
 
 
 s.author             = { "Akries.Ni" => "zxcnoo@163.com" }
-s.source       = { :git => "https://github.com/Akries/NYLinkLabel.git", :tag => "{1.0}" }
+s.source       = { :git => "https://github.com/Akries/NYLinkLabel.git", :tag => "{1.0.0}" }
 
 
-s.source_files  = "NYRuler/*.{h,m}"
+s.source_files  = "NYLinkLabel/*.{h,m}"
 s.requires_arc = true
 end
